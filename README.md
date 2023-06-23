@@ -1,9 +1,9 @@
 ### ville says hi 👋
 
-Public contributions:
+Product Engineering on cloud automation and container orchestration.
 
-![thevilledev's GitHub stats](https://github-readme-stats.vercel.app/api?username=thevilledev&show=reviews&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thevilledev&theme=radical&hide=SCSS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![thevilledev's github stats](https://github-readme-stats.vercel.app/api?username=thevilledev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 <!--
 **thevilledev/thevilledev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
