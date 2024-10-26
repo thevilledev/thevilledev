@@ -1,6 +1,6 @@
 ### ville says hi 👋
 
-Product Engineering on cloud automation and container orchestration.
+I'm an expert on cloud automation and container orchestration.
 <!--
 **thevilledev/thevilledev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
