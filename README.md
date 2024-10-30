@@ -3,7 +3,7 @@
 I'm an expert on cloud automation and container orchestration.
 
 - HashiCorp Core Contributor 2024
-- Released [Terraform Provider for UpCloud](https://github.com/UpCloudLtd/terraform-provider-upcloud) as an OSS project, later adopted by the company
+- Original author of [Terraform Provider for UpCloud](https://github.com/UpCloudLtd/terraform-provider-upcloud) as an OSS project, later adopted by the company
 - Contributed UNIX domain socket support for Tensorflow Serving [tensorflow/serving/pull/1159](https://github.com/tensorflow/serving/pull/1159)
 - [My contributions for hashicorp/consul-template](https://github.com/hashicorp/consul-template/pulls?q=is%3Apr+author%3Athevilledev)
 
