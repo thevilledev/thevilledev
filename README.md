@@ -8,7 +8,7 @@
 Short background:
 
 - I started my FOSS journey in 2005, building various RPM packages as a community effort for Fedora Core. Good times.
-- Built and scaled highly available infrastructure for organizations ranging from startups to enterprise, specializing in containers.
+- Built and scaled highly available infrastructure for organizations ranging from startups to enterprise.
 - 15+ years of hands-on experience on cloud technologies and container orchestration.
 - Maintaining a dual focus on software development and infrastructure. Actively learning.
 - As time passes, the more I seem to enjoy Functional Programming.
