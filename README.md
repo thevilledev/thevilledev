@@ -1,5 +1,3 @@
-### greetings 👋
-
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](#)
 [![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)](#)
@@ -7,11 +5,10 @@
 
 Short background:
 
-- I started my FOSS journey in 2005, building various RPM packages as a community effort for Fedora Core. Good times.
-- Built and scaled highly available infrastructure for organizations ranging from startups to enterprise.
-- 15+ years of hands-on experience on cloud technologies and container orchestration.
-- Maintaining a dual focus on software development and infrastructure. Actively learning.
-- As time passes, the more I seem to enjoy Functional Programming.
+- Built and scaled highly available infrastructure for organizations of all sizes.
+- Over 15 years of hands-on experience in cloud technologies.
+- Dedicated to both software development and infrastructure, with ongoing work in security research and AI/ML.
+- Constantly evolving my skills, with a growing passion for functional programming.
 
 Notable contributions:
 
