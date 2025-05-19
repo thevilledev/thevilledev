@@ -6,14 +6,14 @@
 Short background:
 
 - Built and scaled highly available infrastructure for organizations of all sizes.
-- Over 15 years of hands-on experience in cloud technologies.
-- Dedicated to both software development and infrastructure, with ongoing work in security research and AI/ML.
-- Constantly evolving my skills, with a growing passion for functional programming.
+- Over 15 years of hands-on experience in cloud technologies, from hardware to software.
+- Currently dedicated to ongoing work in security research and AI/ML.
+- Constantly learning.
 
 Notable contributions:
 
 - HashiCorp Core Contributor 2024
-- Security advisories and CVEs I've contributed to: https://ville.dev/security.html
+- Security advisories and CVEs I've contributed to: [ville.dev/security](https://ville.dev/security.html)
 - Original author of [Terraform Provider for UpCloud](https://github.com/UpCloudLtd/terraform-provider-upcloud) as an OSS project, later adopted by the company
 - My love for [hashicorp/consul-template](https://github.com/hashicorp/consul-template/pulls?q=is%3Apr+author%3Athevilledev)
 - UNIX domain socket support for Tensorflow Serving [tensorflow/serving/pull/1159](https://github.com/tensorflow/serving/pull/1159)
