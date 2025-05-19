@@ -15,7 +15,7 @@ Notable contributions:
 - CoreDNS maintainer
 - HashiCorp Core Contributor 2024
 - Security advisories and CVEs I've contributed to: [ville.dev/security](https://ville.dev/security.html)
-- Original author of [Terraform Provider for UpCloud](https://github.com/UpCloudLtd/terraform-provider-upcloud), later adopted by the company
+- Original author of [Terraform Provider for UpCloud](https://github.com/UpCloudLtd/terraform-provider-upcloud) as an OSS project
 - [ChibiHash](https://github.com/N-R-K/ChibiHash) ports for:
   - [Rust](https://github.com/thevilledev/ChibiHash-rs)
   - [Zig](https://github.com/thevilledev/ChibiHash-zig)
