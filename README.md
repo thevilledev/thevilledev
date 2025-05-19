@@ -15,7 +15,9 @@ Notable contributions:
 - HashiCorp Core Contributor 2024
 - Security advisories and CVEs I've contributed to: [ville.dev/security](https://ville.dev/security.html)
 - Original author of [Terraform Provider for UpCloud](https://github.com/UpCloudLtd/terraform-provider-upcloud) as an OSS project, later adopted by the company
-- My love for [hashicorp/consul-template](https://github.com/hashicorp/consul-template/pulls?q=is%3Apr+author%3Athevilledev)
+- My love for the tools I use:
+  - [hashicorp/consul-template](https://github.com/hashicorp/consul-template/pulls?q=is%3Apr+author%3Athevilledev)
+  - [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest/pulls?q=is%3Apr+author%3Athevilledev)
 - UNIX domain socket support for Tensorflow Serving [tensorflow/serving/pull/1159](https://github.com/tensorflow/serving/pull/1159)
 - [ChibiHash](https://github.com/N-R-K/ChibiHash) ports for [Rust](https://github.com/thevilledev/ChibiHash-rs), [Zig](https://github.com/thevilledev/ChibiHash-zig) and [Haskell](https://github.com/thevilledev/ChibiHash-hs)
 
