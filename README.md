@@ -5,8 +5,8 @@
 
 Short background:
 
-- Built and scaled highly available infrastructure for organizations of all sizes.
 - Over 15 years of hands-on experience in cloud technologies, from hardware to software.
+- Built and scaled highly available infrastructure for organizations of all sizes.
 - Currently dedicated to ongoing work in security research and AI/ML.
 - Constantly learning.
 
