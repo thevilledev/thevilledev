@@ -1,4 +1,4 @@
-CoreDNS maintainer. Open Source contributor to projects I like to use. I work as the Head of AI & Data [@UpCloudLtd](https://github.com/UpCloudLtd).
+CoreDNS maintainer. Open Source contributor to projects I like to use.
 
 Currently dedicated to security research and AI/ML.
 
