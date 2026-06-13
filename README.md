@@ -1,6 +1,12 @@
-CoreDNS maintainer. Open Source contributor to projects I like to use.
+Hey!
 
-Currently dedicated to security research and AI/ML.
+Short intro:
+
+- CoreDNS maintainer
+- Argo project member
+- Kyverno and Open Policy Agent contributor
+- Work at [@iceye-ltd](https://iceye.com)
+- Security researcher whenever I have the time
 
 [![HackerOne](https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/thevilledev)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/thevilledev)
