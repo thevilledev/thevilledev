@@ -1,12 +1,17 @@
-Hey!
+# Hey!
 
-Intro:
+**Staff Software Engineer at [ICEYE](https://iceye.com) · OSS contributor · security researcher**
 
-- Contributor to [Argo](https://github.com/argoproj), [CoreDNS](https://github.com/coredns/coredns), [Open Policy Agent](https://github.com/open-policy-agent) and [Kyverno](https://github.com/kyverno/kyverno)
-- I work at [@iceye-ltd](https://iceye.com)
-- Security research whenever I have the time
+I build cloud infrastructure and make the software behind it faster, more reliable, and safer.
 
-I have a [blog](https://ville.dev/blog/) and I do short [security advisories](https://ville.dev/security.html) of my own findings.
+## Open source
 
-[![HackerOne](https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/thevilledev)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/thevilledev)
+I contribute to CoreDNS, Argo, Open Policy Agent, Kyverno, Expr, and cryptographic libraries, working on performance, correctness, and security.
+
+[Contributions →](https://ville.dev/contributions.html)
+
+## Security research
+
+[20 published advisories](https://ville.dev/security.html), including critical privilege-escalation findings in [Kyverno](https://github.com/kyverno/kyverno/security/advisories/GHSA-8p9x-46gm-qfx2) and [Argo Events](https://github.com/argoproj/argo-events/security/advisories/GHSA-hmp7-x699-cvhq). I research independently, coordinate disclosure with maintainers, and often write the patches.
+
+[Blog](https://ville.dev/blog/) · [Website](https://ville.dev/) · [LinkedIn](https://www.linkedin.com/in/thevilledev)
